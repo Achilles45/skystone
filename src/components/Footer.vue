@@ -1,7 +1,7 @@
 <template>
   <footer class="footer">
       <div class="container">
-          &copy; All rights reserved 2020. Skystone Capital Investment Limited
+          &copy; All rights reserved 2020. Skystone Capital Investors Limited
       </div>
   </footer>
 </template>

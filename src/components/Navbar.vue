@@ -1,11 +1,11 @@
 <template>
   <div class="navbar__wrapper container-fluid">
           <div class="navbar__content d-flex justify-content-between align-items-center">
-              <div class="logo pt-2">
-                  <router-link to="/" class="logo"><img src="../assets/images/logo2.png" class="logo__img" alt=""></router-link>
+              <div class="logo">
+                  <router-link to="/" class="logo"><img src="../assets/images/logo.png" class="logo__img" alt=""></router-link>
               </div>
               <div class="menu">
-                  <ul class="d-flex justify-content-between pt-3">
+                  <ul class="d-flex justify-content-between">
                       <li><router-link to="/" class="links">Home</router-link></li>
                       <li><a href="#about" class="links d-none d-md-block">About Us</a></li>
                       <li><a href="#how-it-works" class="links d-none d-md-block">How it works</a></li>
@@ -81,6 +81,7 @@ export default {
                 font-weight: 400;
                 opacity: .6;
                 text-transform: uppercase;
+                font-size: .9rem;
             }
         }
         .navbar__toggler{

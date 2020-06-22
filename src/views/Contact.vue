@@ -18,7 +18,7 @@
                         <div class="icon__wrapper">
                                 <p><i class="fa fa-envelope"></i></p>
                         </div>
-                        <p class="pl-3"> gatewayinvestment09@gmail.com</p>
+                        <p class="pl-3"> skystonecapitalinvestor@gmail.com</p>
                     </div>
                   </div><br>
                    <div class="col-md-4">

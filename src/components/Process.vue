@@ -7,15 +7,15 @@
                   <div class="row">
              <div class="col-md-1"></div>
              <div class="col-md-10 text-center">
-                 <h2>HOW SKYSTONE CAPITAL INVESTMENT WORKS</h2>
+                 <h2>HOW SKYSTONE CAPITAL INVESTORS WORKS</h2>
                 <p><i class="fas fa-check"></i>&nbsp; Register and verify your  email.</p>
                 <p><i class="fas fa-check"></i>&nbsp; 10k Minimum Deposit In Naira and 500k Maximum.</p>
                 <p><i class="fas fa-check"></i>&nbsp; $50 Mimimum Deposit In Bitcoin</p>
                 <p><i class="fas fa-check"></i>&nbsp; WE GIVE LOANS TO ONLY OUR ACTIVE CUSTOMERS.</p>
                 <p><i class="fas fa-check"></i>&nbsp; Auto Assign To Make/Receive Payment.</p>
                 <p><i class="fas fa-check"></i>&nbsp; 5 days Payment Allowance.</p>
-                <p><i class="fas fa-check"></i>&nbsp; Faithful Givers Investment Programme Supports 100% Investment Recommitment Policy for all VIP Users. Stability is of the highest priority for profits investment platform.</p>
-                <h6>TAKE NOTE! FAITHFUL GIVERS INVESTMENT PROGRAMME SUPPORTS 100% INVESTMENT RECOMMITMENT POLICY FOR ALL NEW MEMBERS.</h6><br>
+                <p><i class="fas fa-check"></i>&nbsp; Skystone Capital Investors Programme Supports 100% Investment Recommitment Policy for all VIP Users. Stability is of the highest priority for profits investment platform.</p>
+                <h6>TAKE NOTE! SKYSTONE CAPITAL INVESTORS PROGRAMME SUPPORTS 100% INVESTMENT RECOMMITMENT POLICY FOR ALL NEW MEMBERS.</h6><br>
                 <img src="../assets/images/manager3.jpg" class="img-fluid" alt="">
              </div>
              <div class="col-md-1"></div>

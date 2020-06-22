@@ -4,7 +4,7 @@
      <div class="row">
        <div class="col-12 text-center">
          <div class="text">
-           <h1><span class="orange">Skystone Capital </span>Investment Platform</h1>
+           <h1><span class="orange">Skystone Capital </span>Investors Platform</h1>
            <h3>OVER 13K MEMBERS ON <i class="fab fa-telegram"></i> TELEGRAM!</h3>
            <h3>Invest your money today and get 50% interest within 5 days using our investment programme.</h3>
            <h3>Buy and Sell <i class="fab fa-bitcoin"></i> Bitcoin with the leading bitcoin exchange provider, we also grant loans to our customers who have successfully crossed their top up level which is 50k.</h3>
@@ -40,6 +40,7 @@ export default {
       }
       h1{
         padding-bottom: 1.4rem;
+        font-weight: bold;
       }
       h3{
         font-size: 1.6rem;
