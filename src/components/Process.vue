@@ -9,7 +9,7 @@
              <div class="col-md-10 text-center">
                  <h2>HOW SKYSTONE CAPITAL INVESTORS WORKS</h2>
                 <p><i class="fas fa-check"></i>&nbsp; Register and verify your  email.</p>
-                <p><i class="fas fa-check"></i>&nbsp; 10k Minimum Deposit In Naira and 500k Maximum.</p>
+                <p><i class="fas fa-check"></i>&nbsp; 20k Minimum Deposit In Naira and 5,000,000 Maximum.</p>
                 <p><i class="fas fa-check"></i>&nbsp; $50 Mimimum Deposit In Bitcoin</p>
                 <p><i class="fas fa-check"></i>&nbsp; WE GIVE LOANS TO ONLY OUR ACTIVE CUSTOMERS.</p>
                 <p><i class="fas fa-check"></i>&nbsp; Auto Assign To Make/Receive Payment.</p>
